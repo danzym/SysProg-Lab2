@@ -1,0 +1,3 @@
+/Users/air/Desktop/CLion/Lab2_SysProg_Beta/cmake-build-debug/CMakeFiles/Lab2_SysProg_Beta.dir
+/Users/air/Desktop/CLion/Lab2_SysProg_Beta/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/air/Desktop/CLion/Lab2_SysProg_Beta/cmake-build-debug/CMakeFiles/rebuild_cache.dir
